@@ -1,0 +1,42 @@
+[
+    {
+        "value": 1,
+        "label": "Australia"
+    },
+    {
+        "value": 2,
+        "label": "Bermuda"
+    },
+    {
+        "value": 3,
+        "label": "Canada"
+    },
+    {
+        "value": 4,
+        "label": "Cameroon"
+    },
+    {
+        "value": 5,
+        "label": "Denmark"
+    },
+    {
+        "value": 6,
+        "label": "France"
+    },
+    {
+        "value": 7,
+        "label": "Finland"
+    },
+    {
+        "value": 8,
+        "label": "Germany"
+    },
+    {
+        "value": 9,
+        "label": "Itali"
+    },
+    {
+        "value": 10,
+        "label": "USA"
+    }
+]
